@@ -2,6 +2,7 @@ import InvestImage from '/investment-calculator-logo.png';
 import {Calculator} from './components/Calculator.jsx';
 
 function App() {
+
   return (
       <>
       <header id="header">
